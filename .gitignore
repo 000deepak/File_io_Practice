@@ -1,0 +1,10 @@
+ .gradle/
+        .idea/
+        FILE_PATH
+        build.gradle
+        build/
+        gradle/
+        gradlew
+        gradlew.bat
+        settings.gradle
+        
